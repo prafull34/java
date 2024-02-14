@@ -14,4 +14,4 @@ System.out.println(age);//4
 }
 o/p=Compiletime success
   Runtime success
-  o/p=15;
+  o/p=4;
