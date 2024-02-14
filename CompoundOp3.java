@@ -8,7 +8,10 @@ age=age*age1;
 System.out.println(age);//compile time error
 */
 age*=age1;
-System.out.println(age);//12
+System.out.println(age);//25
 
 }
 }
+o/p=Compiletime success
+  Runtime success
+  o/p=25
