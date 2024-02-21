@@ -12,4 +12,4 @@ System.out.println(Result);
 /*output
   Compiletime =success
   Runtime =success
-  o/p=Sorry you are not eligible/*
+  o/p=Sorry you are not eligible*/
