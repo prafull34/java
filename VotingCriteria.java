@@ -9,6 +9,7 @@ String Result=rahulage>=18 ?("Congrates you can vote"):("Sorry you are not eligi
 System.out.println(Result);
 }
 }
-/*Compiletime =success
+/*output
+  Compiletime =success
   Runtime =success
-  Sorry you are not eligible/*
+  o/p=Sorry you are not eligible/*
