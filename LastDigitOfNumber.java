@@ -8,4 +8,4 @@ System.out.println(number%10);
 }
 }
 /*compiletime-success
-  runtime-sucess=7/*
+  runtime-sucess=7 */
