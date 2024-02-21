@@ -12,6 +12,7 @@ System.out.println(age);//25
 
 }
 }
-o/p=Compiletime success
+/*output
+  Compiletime success
   Runtime success
-  o/p=25;
+  o/p=25;*/
