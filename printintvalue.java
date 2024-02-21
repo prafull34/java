@@ -7,5 +7,7 @@ System.out.println(value1);
 }
 }
 
-   //compiletime=sucess
-     Runtime=success=10
+   /*output:
+     compile time success
+     run time success =10 */
+   
