@@ -10,3 +10,8 @@ float b1=(int)a1;
 System.out.println(b1);
 }
 }
+  /*output
+    compiletime=success
+    runtime=success
+    o/p=10.0
+        10.0 */
