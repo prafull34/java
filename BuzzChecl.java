@@ -8,3 +8,7 @@ class BuzzChecl{
     sc.close();
   }
 }
+  /* compile time =success
+     runtime =success
+     output:78
+            Not Buzz Number*/
